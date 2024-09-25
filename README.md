@@ -7,3 +7,4 @@ School project on the topic of Neutral network and Deep learning
 1. implement a two layer neural network
 2. apply neural network to resolve a binary classification problem
 #### Week three
+1. understand gradient descent algorithms: RMSProp (adaptive learning rate); stochastic and mini batch for fast compute; Momentum gradient descent; Adma gradient descent
