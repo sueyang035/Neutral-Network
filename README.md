@@ -15,3 +15,5 @@ Generalizaiton and regularization. Tuning hyperparameters
 #### Week Five 
 Convolutional Neural Networks
 Deepen understanding of Convolutional Neural Networks (CNNs) by building and training one using Python and NumPy 
+#### Week Six
+Implementing two different neural network architectures: ResNet and U-Net. These architectures are widely used in computer vision for tasks like image classification(ResNet) and semantic segmentation (U-Net). 
